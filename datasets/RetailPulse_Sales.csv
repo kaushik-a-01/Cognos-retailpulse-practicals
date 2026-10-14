@@ -1,0 +1,721 @@
+Order ID,Sales Date,Region,Store Name,Product Category,Product Name,Quantity,Unit Price,Sales Amount
+ORD100001,2025-10-01,South,South Market,Home & Kitchen,Mixer Grinder,6,3500,21000
+ORD100002,2025-10-01,South,South Market,Electronics,Smartphone,4,18000,72000
+ORD100003,2025-10-02,East,East Gate,Grocery,Rice 5kg,8,450,3600
+ORD100004,2025-10-02,East,East Harbor,Grocery,Coffee Pack,8,350,2800
+ORD100005,2025-10-02,North,North Mall,Electronics,Smartphone,8,18000,144000
+ORD100006,2025-10-03,South,South Market,Home & Kitchen,Cookware Set,4,4200,16800
+ORD100007,2025-10-03,North,North Mall,Apparel,T-Shirt,6,700,4200
+ORD100008,2025-10-04,North,North Mall,Electronics,Smartphone,2,18000,36000
+ORD100009,2025-10-04,West,West End,Apparel,Jacket,3,3200,9600
+ORD100010,2025-10-05,South,South Square,Home & Kitchen,Cookware Set,1,4200,4200
+ORD100011,2025-10-05,East,East Gate,Grocery,Coffee Pack,5,350,1750
+ORD100012,2025-10-05,South,South Square,Apparel,Jeans,6,1800,10800
+ORD100013,2025-10-07,West,West Park,Electronics,Headphones,6,2500,15000
+ORD100014,2025-10-08,East,East Point,Sports,Running Shoes,4,3600,14400
+ORD100015,2025-10-08,South,South Market,Apparel,Jacket,8,3200,25600
+ORD100016,2025-10-08,East,East Harbor,Apparel,Jacket,1,3200,3200
+ORD100017,2025-10-09,North,North Central,Home & Kitchen,Cookware Set,1,4200,4200
+ORD100018,2025-10-10,East,East Point,Apparel,Jacket,6,3200,19200
+ORD100019,2025-10-11,West,West End,Grocery,Coffee Pack,4,350,1400
+ORD100020,2025-10-12,West,West Park,Electronics,Smartwatch,4,6000,24000
+ORD100021,2025-10-12,North,North Central,Home & Kitchen,Mixer Grinder,2,3500,7000
+ORD100022,2025-10-12,South,South Square,Apparel,Jacket,6,3200,19200
+ORD100023,2025-10-14,West,West Park,Grocery,Olive Oil 1L,7,900,6300
+ORD100024,2025-10-16,South,South Bay,Electronics,Smartwatch,3,6000,18000
+ORD100025,2025-10-16,East,East Point,Grocery,Coffee Pack,2,350,700
+ORD100026,2025-10-16,East,East Gate,Home & Kitchen,Table Lamp,6,1200,7200
+ORD100027,2025-10-16,South,South Square,Home & Kitchen,Mixer Grinder,3,3500,10500
+ORD100028,2025-10-17,North,North Central,Apparel,Jacket,1,3200,3200
+ORD100029,2025-10-17,East,East Gate,Sports,Yoga Mat,5,900,4500
+ORD100030,2025-10-17,East,East Gate,Home & Kitchen,Cookware Set,4,4200,16800
+ORD100031,2025-10-21,West,West End,Home & Kitchen,Cookware Set,4,4200,16800
+ORD100032,2025-10-22,East,East Harbor,Home & Kitchen,Cookware Set,1,4200,4200
+ORD100033,2025-10-23,West,West Junction,Electronics,Headphones,2,2500,5000
+ORD100034,2025-10-23,West,West Park,Apparel,Jeans,5,1800,9000
+ORD100035,2025-10-23,East,East Point,Home & Kitchen,Cookware Set,4,4200,16800
+ORD100036,2025-10-23,North,North Central,Electronics,Headphones,6,2500,15000
+ORD100037,2025-10-24,North,North Mall,Grocery,Coffee Pack,3,350,1050
+ORD100038,2025-10-24,South,South Market,Sports,Yoga Mat,1,900,900
+ORD100039,2025-10-24,North,North Central,Grocery,Olive Oil 1L,8,900,7200
+ORD100040,2025-10-25,North,North Plaza,Home & Kitchen,Cookware Set,2,4200,8400
+ORD100041,2025-10-25,West,West Park,Home & Kitchen,Mixer Grinder,7,3500,24500
+ORD100042,2025-10-26,North,North Central,Electronics,Headphones,6,2500,15000
+ORD100043,2025-10-26,West,West Park,Grocery,Rice 5kg,6,450,2700
+ORD100044,2025-10-26,South,South Square,Apparel,Jacket,2,3200,6400
+ORD100045,2025-10-27,West,West End,Sports,Running Shoes,7,3600,25200
+ORD100046,2025-10-27,South,South Bay,Sports,Yoga Mat,2,900,1800
+ORD100047,2025-10-27,East,East Harbor,Grocery,Olive Oil 1L,2,900,1800
+ORD100048,2025-10-27,East,East Point,Sports,Running Shoes,1,3600,3600
+ORD100049,2025-10-28,North,North Plaza,Apparel,Jacket,6,3200,19200
+ORD100050,2025-10-28,North,North Central,Home & Kitchen,Table Lamp,6,1200,7200
+ORD100051,2025-10-28,South,South Square,Grocery,Coffee Pack,8,350,2800
+ORD100052,2025-10-29,West,West Junction,Apparel,Jeans,3,1800,5400
+ORD100053,2025-10-30,North,North Central,Electronics,Smartwatch,2,6000,12000
+ORD100054,2025-10-30,West,West Junction,Grocery,Coffee Pack,3,350,1050
+ORD100055,2025-10-30,East,East Point,Electronics,Smartwatch,2,6000,12000
+ORD100056,2025-11-01,North,North Plaza,Home & Kitchen,Mixer Grinder,7,3500,24500
+ORD100057,2025-11-01,West,West End,Grocery,Coffee Pack,2,350,700
+ORD100058,2025-11-01,South,South Square,Apparel,T-Shirt,6,700,4200
+ORD100059,2025-11-01,South,South Square,Sports,Yoga Mat,3,900,2700
+ORD100060,2025-11-01,South,South Bay,Apparel,Jeans,6,1800,10800
+ORD100061,2025-11-01,West,West Park,Apparel,Jacket,8,3200,25600
+ORD100062,2025-11-02,West,West Park,Grocery,Coffee Pack,2,350,700
+ORD100063,2025-11-03,East,East Gate,Sports,Running Shoes,7,3600,25200
+ORD100064,2025-11-03,North,North Plaza,Grocery,Olive Oil 1L,6,900,5400
+ORD100065,2025-11-04,South,South Square,Grocery,Olive Oil 1L,7,900,6300
+ORD100066,2025-11-04,North,North Central,Electronics,Headphones,2,2500,5000
+ORD100067,2025-11-04,North,North Plaza,Home & Kitchen,Mixer Grinder,7,3500,24500
+ORD100068,2025-11-05,South,South Market,Grocery,Rice 5kg,8,450,3600
+ORD100069,2025-11-05,North,North Mall,Apparel,Jeans,6,1800,10800
+ORD100070,2025-11-05,East,East Point,Grocery,Coffee Pack,5,350,1750
+ORD100071,2025-11-07,East,East Harbor,Home & Kitchen,Table Lamp,2,1200,2400
+ORD100072,2025-11-07,South,South Square,Grocery,Rice 5kg,6,450,2700
+ORD100073,2025-11-07,North,North Central,Apparel,T-Shirt,5,700,3500
+ORD100074,2025-11-07,South,South Square,Sports,Yoga Mat,8,900,7200
+ORD100075,2025-11-07,West,West Park,Sports,Cricket Bat,7,2800,19600
+ORD100076,2025-11-07,North,North Plaza,Sports,Running Shoes,2,3600,7200
+ORD100077,2025-11-08,West,West Park,Sports,Running Shoes,3,3600,10800
+ORD100078,2025-11-08,West,West Junction,Electronics,Smartphone,1,18000,18000
+ORD100079,2025-11-08,South,South Bay,Sports,Yoga Mat,3,900,2700
+ORD100080,2025-11-08,North,North Plaza,Sports,Running Shoes,5,3600,18000
+ORD100081,2025-11-10,West,West Junction,Apparel,Jeans,3,1800,5400
+ORD100082,2025-11-10,North,North Plaza,Apparel,Jacket,7,3200,22400
+ORD100083,2025-11-10,East,East Harbor,Grocery,Olive Oil 1L,8,900,7200
+ORD100084,2025-11-11,South,South Market,Grocery,Coffee Pack,7,350,2450
+ORD100085,2025-11-12,South,South Market,Home & Kitchen,Table Lamp,3,1200,3600
+ORD100086,2025-11-12,North,North Central,Grocery,Rice 5kg,5,450,2250
+ORD100087,2025-11-13,West,West End,Sports,Yoga Mat,3,900,2700
+ORD100088,2025-11-13,South,South Bay,Sports,Cricket Bat,4,2800,11200
+ORD100089,2025-11-13,North,North Mall,Apparel,Jeans,5,1800,9000
+ORD100090,2025-11-13,East,East Gate,Electronics,Smartphone,5,18000,90000
+ORD100091,2025-11-14,West,West End,Home & Kitchen,Table Lamp,1,1200,1200
+ORD100092,2025-11-14,East,East Harbor,Grocery,Coffee Pack,2,350,700
+ORD100093,2025-11-16,West,West End,Home & Kitchen,Mixer Grinder,7,3500,24500
+ORD100094,2025-11-16,South,South Square,Sports,Yoga Mat,1,900,900
+ORD100095,2025-11-16,South,South Market,Home & Kitchen,Cookware Set,6,4200,25200
+ORD100096,2025-11-17,West,West Junction,Grocery,Rice 5kg,7,450,3150
+ORD100097,2025-11-17,West,West End,Grocery,Olive Oil 1L,5,900,4500
+ORD100098,2025-11-17,South,South Bay,Home & Kitchen,Cookware Set,8,4200,33600
+ORD100099,2025-11-18,West,West End,Apparel,Jacket,1,3200,3200
+ORD100100,2025-11-19,West,West Park,Grocery,Coffee Pack,6,350,2100
+ORD100101,2025-11-19,North,North Plaza,Sports,Running Shoes,8,3600,28800
+ORD100102,2025-11-20,North,North Mall,Sports,Running Shoes,4,3600,14400
+ORD100103,2025-11-20,East,East Gate,Apparel,Jacket,5,3200,16000
+ORD100104,2025-11-20,East,East Gate,Sports,Running Shoes,4,3600,14400
+ORD100105,2025-11-21,South,South Market,Apparel,Jeans,3,1800,5400
+ORD100106,2025-11-22,West,West Junction,Sports,Cricket Bat,3,2800,8400
+ORD100107,2025-11-22,East,East Harbor,Sports,Yoga Mat,1,900,900
+ORD100108,2025-11-22,North,North Central,Grocery,Coffee Pack,2,350,700
+ORD100109,2025-11-24,South,South Market,Home & Kitchen,Cookware Set,7,4200,29400
+ORD100110,2025-11-25,West,West End,Grocery,Coffee Pack,6,350,2100
+ORD100111,2025-11-25,West,West Park,Grocery,Olive Oil 1L,2,900,1800
+ORD100112,2025-11-25,South,South Square,Grocery,Rice 5kg,1,450,450
+ORD100113,2025-11-25,South,South Bay,Apparel,T-Shirt,8,700,5600
+ORD100114,2025-11-26,West,West Junction,Sports,Yoga Mat,4,900,3600
+ORD100115,2025-11-26,East,East Gate,Grocery,Rice 5kg,1,450,450
+ORD100116,2025-11-27,West,West Park,Electronics,Smartphone,5,18000,90000
+ORD100117,2025-11-28,West,West End,Apparel,Jacket,7,3200,22400
+ORD100118,2025-11-28,East,East Harbor,Home & Kitchen,Table Lamp,6,1200,7200
+ORD100119,2025-11-29,East,East Gate,Sports,Cricket Bat,1,2800,2800
+ORD100120,2025-11-30,West,West End,Sports,Running Shoes,4,3600,14400
+ORD100121,2025-11-30,South,South Market,Grocery,Coffee Pack,5,350,1750
+ORD100122,2025-12-01,East,East Gate,Home & Kitchen,Cookware Set,8,4200,33600
+ORD100123,2025-12-01,West,West Junction,Apparel,Jeans,2,1800,3600
+ORD100124,2025-12-01,South,South Market,Electronics,Smartwatch,3,6000,18000
+ORD100125,2025-12-04,East,East Harbor,Sports,Yoga Mat,3,900,2700
+ORD100126,2025-12-04,East,East Harbor,Electronics,Headphones,8,2500,20000
+ORD100127,2025-12-04,East,East Gate,Home & Kitchen,Mixer Grinder,8,3500,28000
+ORD100128,2025-12-05,South,South Square,Electronics,Smartwatch,7,6000,42000
+ORD100129,2025-12-05,North,North Mall,Home & Kitchen,Table Lamp,6,1200,7200
+ORD100130,2025-12-06,North,North Plaza,Sports,Cricket Bat,6,2800,16800
+ORD100131,2025-12-06,West,West Junction,Electronics,Smartphone,3,18000,54000
+ORD100132,2025-12-06,East,East Harbor,Apparel,Jeans,1,1800,1800
+ORD100133,2025-12-07,North,North Plaza,Grocery,Coffee Pack,7,350,2450
+ORD100134,2025-12-08,West,West Park,Apparel,Jacket,6,3200,19200
+ORD100135,2025-12-08,North,North Plaza,Sports,Cricket Bat,3,2800,8400
+ORD100136,2025-12-09,North,North Mall,Home & Kitchen,Mixer Grinder,5,3500,17500
+ORD100137,2025-12-09,North,North Plaza,Apparel,T-Shirt,8,700,5600
+ORD100138,2025-12-10,South,South Bay,Home & Kitchen,Table Lamp,3,1200,3600
+ORD100139,2025-12-10,West,West End,Electronics,Smartphone,3,18000,54000
+ORD100140,2025-12-10,North,North Mall,Sports,Yoga Mat,4,900,3600
+ORD100141,2025-12-11,North,North Mall,Sports,Yoga Mat,7,900,6300
+ORD100142,2025-12-11,South,South Square,Sports,Running Shoes,5,3600,18000
+ORD100143,2025-12-11,West,West End,Grocery,Olive Oil 1L,4,900,3600
+ORD100144,2025-12-13,East,East Point,Electronics,Smartwatch,6,6000,36000
+ORD100145,2025-12-13,West,West End,Home & Kitchen,Cookware Set,4,4200,16800
+ORD100146,2025-12-13,South,South Square,Sports,Cricket Bat,1,2800,2800
+ORD100147,2025-12-13,West,West End,Apparel,T-Shirt,1,700,700
+ORD100148,2025-12-14,North,North Plaza,Sports,Running Shoes,7,3600,25200
+ORD100149,2025-12-15,North,North Plaza,Apparel,Jacket,5,3200,16000
+ORD100150,2025-12-15,South,South Bay,Sports,Running Shoes,2,3600,7200
+ORD100151,2025-12-16,North,North Mall,Electronics,Smartwatch,2,6000,12000
+ORD100152,2025-12-16,North,North Central,Apparel,T-Shirt,8,700,5600
+ORD100153,2025-12-16,South,South Market,Sports,Cricket Bat,3,2800,8400
+ORD100154,2025-12-16,West,West Junction,Home & Kitchen,Cookware Set,6,4200,25200
+ORD100155,2025-12-18,North,North Plaza,Electronics,Headphones,2,2500,5000
+ORD100156,2025-12-18,South,South Bay,Sports,Yoga Mat,8,900,7200
+ORD100157,2025-12-18,West,West Junction,Apparel,T-Shirt,7,700,4900
+ORD100158,2025-12-18,East,East Gate,Sports,Running Shoes,1,3600,3600
+ORD100159,2025-12-19,East,East Point,Sports,Running Shoes,2,3600,7200
+ORD100160,2025-12-19,South,South Market,Apparel,Jacket,1,3200,3200
+ORD100161,2025-12-20,East,East Point,Grocery,Coffee Pack,2,350,700
+ORD100162,2025-12-20,West,West Park,Home & Kitchen,Cookware Set,4,4200,16800
+ORD100163,2025-12-20,North,North Plaza,Home & Kitchen,Table Lamp,8,1200,9600
+ORD100164,2025-12-20,North,North Central,Grocery,Rice 5kg,4,450,1800
+ORD100165,2025-12-21,East,East Gate,Grocery,Olive Oil 1L,2,900,1800
+ORD100166,2025-12-23,West,West Junction,Grocery,Coffee Pack,3,350,1050
+ORD100167,2025-12-23,East,East Gate,Sports,Yoga Mat,5,900,4500
+ORD100168,2025-12-23,West,West Park,Grocery,Coffee Pack,4,350,1400
+ORD100169,2025-12-23,East,East Point,Apparel,T-Shirt,5,700,3500
+ORD100170,2025-12-23,South,South Square,Home & Kitchen,Table Lamp,6,1200,7200
+ORD100171,2025-12-24,West,West End,Apparel,Jacket,3,3200,9600
+ORD100172,2025-12-24,East,East Point,Grocery,Coffee Pack,6,350,2100
+ORD100173,2025-12-25,East,East Gate,Grocery,Coffee Pack,2,350,700
+ORD100174,2025-12-26,South,South Market,Electronics,Smartphone,7,18000,126000
+ORD100175,2025-12-27,South,South Market,Electronics,Headphones,3,2500,7500
+ORD100176,2025-12-27,East,East Gate,Home & Kitchen,Mixer Grinder,5,3500,17500
+ORD100177,2025-12-28,South,South Bay,Sports,Cricket Bat,6,2800,16800
+ORD100178,2025-12-28,South,South Bay,Electronics,Smartphone,1,18000,18000
+ORD100179,2025-12-29,West,West Park,Sports,Cricket Bat,2,2800,5600
+ORD100180,2025-12-29,South,South Market,Sports,Running Shoes,4,3600,14400
+ORD100181,2025-12-29,South,South Bay,Sports,Cricket Bat,5,2800,14000
+ORD100182,2025-12-29,North,North Mall,Electronics,Smartphone,1,18000,18000
+ORD100183,2025-12-30,West,West End,Apparel,T-Shirt,6,700,4200
+ORD100184,2025-12-31,North,North Central,Sports,Yoga Mat,4,900,3600
+ORD100185,2025-12-31,South,South Square,Electronics,Headphones,2,2500,5000
+ORD100186,2026-01-02,North,North Plaza,Home & Kitchen,Cookware Set,5,4200,21000
+ORD100187,2026-01-02,North,North Plaza,Home & Kitchen,Cookware Set,4,4200,16800
+ORD100188,2026-01-03,East,East Point,Grocery,Rice 5kg,8,450,3600
+ORD100189,2026-01-04,West,West Park,Sports,Running Shoes,7,3600,25200
+ORD100190,2026-01-05,North,North Central,Home & Kitchen,Table Lamp,1,1200,1200
+ORD100191,2026-01-06,South,South Market,Sports,Cricket Bat,8,2800,22400
+ORD100192,2026-01-06,North,North Plaza,Grocery,Olive Oil 1L,3,900,2700
+ORD100193,2026-01-07,South,South Square,Home & Kitchen,Cookware Set,5,4200,21000
+ORD100194,2026-01-07,East,East Point,Grocery,Olive Oil 1L,2,900,1800
+ORD100195,2026-01-08,East,East Harbor,Sports,Cricket Bat,8,2800,22400
+ORD100196,2026-01-09,South,South Bay,Electronics,Headphones,1,2500,2500
+ORD100197,2026-01-11,East,East Point,Sports,Cricket Bat,3,2800,8400
+ORD100198,2026-01-11,South,South Square,Sports,Yoga Mat,7,900,6300
+ORD100199,2026-01-11,South,South Market,Electronics,Smartwatch,8,6000,48000
+ORD100200,2026-01-12,North,North Central,Electronics,Headphones,5,2500,12500
+ORD100201,2026-01-13,East,East Gate,Apparel,Jeans,5,1800,9000
+ORD100202,2026-01-14,North,North Mall,Grocery,Coffee Pack,5,350,1750
+ORD100203,2026-01-14,East,East Harbor,Electronics,Smartwatch,2,6000,12000
+ORD100204,2026-01-15,East,East Point,Electronics,Smartphone,4,18000,72000
+ORD100205,2026-01-17,West,West Park,Home & Kitchen,Mixer Grinder,5,3500,17500
+ORD100206,2026-01-17,South,South Square,Grocery,Olive Oil 1L,6,900,5400
+ORD100207,2026-01-17,North,North Mall,Sports,Yoga Mat,2,900,1800
+ORD100208,2026-01-17,East,East Point,Grocery,Olive Oil 1L,5,900,4500
+ORD100209,2026-01-17,South,South Bay,Electronics,Headphones,2,2500,5000
+ORD100210,2026-01-18,South,South Market,Sports,Running Shoes,8,3600,28800
+ORD100211,2026-01-18,East,East Harbor,Home & Kitchen,Mixer Grinder,2,3500,7000
+ORD100212,2026-01-18,South,South Square,Grocery,Coffee Pack,5,350,1750
+ORD100213,2026-01-18,West,West End,Apparel,Jeans,1,1800,1800
+ORD100214,2026-01-20,West,West End,Home & Kitchen,Cookware Set,6,4200,25200
+ORD100215,2026-01-20,North,North Central,Apparel,Jacket,7,3200,22400
+ORD100216,2026-01-21,South,South Market,Apparel,Jeans,6,1800,10800
+ORD100217,2026-01-22,East,East Gate,Grocery,Olive Oil 1L,6,900,5400
+ORD100218,2026-01-22,West,West Junction,Grocery,Coffee Pack,5,350,1750
+ORD100219,2026-01-22,South,South Square,Apparel,Jeans,7,1800,12600
+ORD100220,2026-01-22,West,West Junction,Apparel,Jeans,6,1800,10800
+ORD100221,2026-01-23,East,East Gate,Home & Kitchen,Table Lamp,6,1200,7200
+ORD100222,2026-01-23,South,South Market,Grocery,Coffee Pack,5,350,1750
+ORD100223,2026-01-24,South,South Bay,Electronics,Smartphone,4,18000,72000
+ORD100224,2026-01-24,East,East Gate,Home & Kitchen,Table Lamp,8,1200,9600
+ORD100225,2026-01-24,East,East Point,Apparel,T-Shirt,8,700,5600
+ORD100226,2026-01-25,South,South Market,Home & Kitchen,Cookware Set,5,4200,21000
+ORD100227,2026-01-26,West,West End,Electronics,Smartphone,6,18000,108000
+ORD100228,2026-01-26,South,South Market,Grocery,Rice 5kg,5,450,2250
+ORD100229,2026-01-27,West,West Junction,Grocery,Olive Oil 1L,5,900,4500
+ORD100230,2026-01-28,North,North Plaza,Grocery,Olive Oil 1L,6,900,5400
+ORD100231,2026-01-28,East,East Harbor,Sports,Running Shoes,6,3600,21600
+ORD100232,2026-01-28,South,South Bay,Apparel,T-Shirt,5,700,3500
+ORD100233,2026-01-28,East,East Harbor,Electronics,Headphones,1,2500,2500
+ORD100234,2026-01-29,East,East Point,Grocery,Coffee Pack,2,350,700
+ORD100235,2026-01-29,North,North Central,Grocery,Rice 5kg,3,450,1350
+ORD100236,2026-01-30,South,South Square,Sports,Running Shoes,6,3600,21600
+ORD100237,2026-01-30,East,East Point,Apparel,T-Shirt,2,700,1400
+ORD100238,2026-01-30,East,East Gate,Sports,Yoga Mat,7,900,6300
+ORD100239,2026-01-31,South,South Market,Electronics,Smartwatch,4,6000,24000
+ORD100240,2026-01-31,East,East Gate,Apparel,Jeans,3,1800,5400
+ORD100241,2026-01-31,West,West Junction,Sports,Cricket Bat,2,2800,5600
+ORD100242,2026-02-01,East,East Point,Sports,Cricket Bat,3,2800,8400
+ORD100243,2026-02-01,West,West End,Electronics,Smartwatch,6,6000,36000
+ORD100244,2026-02-01,South,South Bay,Electronics,Smartwatch,1,6000,6000
+ORD100245,2026-02-01,South,South Square,Grocery,Rice 5kg,1,450,450
+ORD100246,2026-02-01,South,South Market,Apparel,Jeans,1,1800,1800
+ORD100247,2026-02-02,West,West Park,Apparel,Jacket,2,3200,6400
+ORD100248,2026-02-04,South,South Bay,Electronics,Headphones,7,2500,17500
+ORD100249,2026-02-05,East,East Point,Sports,Yoga Mat,5,900,4500
+ORD100250,2026-02-05,North,North Central,Apparel,Jeans,7,1800,12600
+ORD100251,2026-02-05,North,North Plaza,Grocery,Rice 5kg,1,450,450
+ORD100252,2026-02-05,North,North Plaza,Home & Kitchen,Mixer Grinder,8,3500,28000
+ORD100253,2026-02-06,South,South Square,Home & Kitchen,Table Lamp,4,1200,4800
+ORD100254,2026-02-06,North,North Central,Home & Kitchen,Cookware Set,1,4200,4200
+ORD100255,2026-02-07,North,North Plaza,Electronics,Smartwatch,1,6000,6000
+ORD100256,2026-02-07,West,West End,Electronics,Headphones,8,2500,20000
+ORD100257,2026-02-08,North,North Mall,Electronics,Smartphone,1,18000,18000
+ORD100258,2026-02-09,West,West Junction,Home & Kitchen,Cookware Set,3,4200,12600
+ORD100259,2026-02-09,South,South Market,Grocery,Olive Oil 1L,8,900,7200
+ORD100260,2026-02-10,South,South Square,Grocery,Coffee Pack,2,350,700
+ORD100261,2026-02-11,South,South Square,Grocery,Rice 5kg,5,450,2250
+ORD100262,2026-02-11,South,South Bay,Home & Kitchen,Cookware Set,4,4200,16800
+ORD100263,2026-02-11,East,East Harbor,Apparel,Jacket,2,3200,6400
+ORD100264,2026-02-12,South,South Bay,Electronics,Headphones,5,2500,12500
+ORD100265,2026-02-12,North,North Plaza,Home & Kitchen,Table Lamp,6,1200,7200
+ORD100266,2026-02-12,South,South Market,Home & Kitchen,Cookware Set,3,4200,12600
+ORD100267,2026-02-13,North,North Central,Apparel,T-Shirt,5,700,3500
+ORD100268,2026-02-13,North,North Central,Apparel,Jacket,2,3200,6400
+ORD100269,2026-02-13,East,East Harbor,Home & Kitchen,Table Lamp,2,1200,2400
+ORD100270,2026-02-13,North,North Central,Home & Kitchen,Table Lamp,2,1200,2400
+ORD100271,2026-02-14,South,South Bay,Electronics,Smartphone,5,18000,90000
+ORD100272,2026-02-14,North,North Central,Sports,Cricket Bat,6,2800,16800
+ORD100273,2026-02-14,East,East Point,Sports,Running Shoes,1,3600,3600
+ORD100274,2026-02-15,West,West End,Electronics,Smartphone,7,18000,126000
+ORD100275,2026-02-15,North,North Central,Electronics,Smartphone,6,18000,108000
+ORD100276,2026-02-16,North,North Mall,Grocery,Rice 5kg,1,450,450
+ORD100277,2026-02-17,North,North Plaza,Home & Kitchen,Cookware Set,8,4200,33600
+ORD100278,2026-02-17,East,East Point,Grocery,Rice 5kg,3,450,1350
+ORD100279,2026-02-17,West,West Junction,Home & Kitchen,Cookware Set,8,4200,33600
+ORD100280,2026-02-18,East,East Point,Apparel,Jacket,4,3200,12800
+ORD100281,2026-02-18,North,North Mall,Electronics,Smartwatch,8,6000,48000
+ORD100282,2026-02-19,West,West Park,Home & Kitchen,Mixer Grinder,6,3500,21000
+ORD100283,2026-02-20,North,North Plaza,Electronics,Smartwatch,4,6000,24000
+ORD100284,2026-02-21,West,West Park,Electronics,Smartwatch,4,6000,24000
+ORD100285,2026-02-21,North,North Central,Apparel,T-Shirt,7,700,4900
+ORD100286,2026-02-22,North,North Central,Home & Kitchen,Mixer Grinder,4,3500,14000
+ORD100287,2026-02-22,West,West Junction,Sports,Cricket Bat,3,2800,8400
+ORD100288,2026-02-22,West,West Junction,Home & Kitchen,Cookware Set,1,4200,4200
+ORD100289,2026-02-23,East,East Gate,Apparel,T-Shirt,5,700,3500
+ORD100290,2026-02-23,North,North Plaza,Electronics,Smartphone,4,18000,72000
+ORD100291,2026-02-23,East,East Harbor,Sports,Yoga Mat,8,900,7200
+ORD100292,2026-02-23,East,East Harbor,Sports,Yoga Mat,6,900,5400
+ORD100293,2026-02-24,South,South Square,Grocery,Rice 5kg,4,450,1800
+ORD100294,2026-02-25,North,North Mall,Sports,Cricket Bat,7,2800,19600
+ORD100295,2026-02-25,East,East Point,Electronics,Smartphone,4,18000,72000
+ORD100296,2026-02-25,West,West Junction,Home & Kitchen,Mixer Grinder,1,3500,3500
+ORD100297,2026-02-27,North,North Central,Grocery,Coffee Pack,5,350,1750
+ORD100298,2026-02-28,North,North Plaza,Grocery,Rice 5kg,2,450,900
+ORD100299,2026-02-28,East,East Point,Home & Kitchen,Mixer Grinder,4,3500,14000
+ORD100300,2026-02-28,West,West End,Electronics,Smartphone,4,18000,72000
+ORD100301,2026-03-01,South,South Bay,Grocery,Rice 5kg,7,450,3150
+ORD100302,2026-03-01,North,North Mall,Sports,Running Shoes,1,3600,3600
+ORD100303,2026-03-02,North,North Plaza,Grocery,Olive Oil 1L,8,900,7200
+ORD100304,2026-03-02,West,West Junction,Sports,Cricket Bat,7,2800,19600
+ORD100305,2026-03-03,North,North Mall,Electronics,Smartphone,6,18000,108000
+ORD100306,2026-03-03,East,East Gate,Sports,Running Shoes,3,3600,10800
+ORD100307,2026-03-03,North,North Mall,Electronics,Smartphone,7,18000,126000
+ORD100308,2026-03-04,West,West Junction,Electronics,Smartwatch,5,6000,30000
+ORD100309,2026-03-04,North,North Mall,Sports,Yoga Mat,5,900,4500
+ORD100310,2026-03-05,East,East Point,Home & Kitchen,Table Lamp,2,1200,2400
+ORD100311,2026-03-05,West,West End,Electronics,Smartphone,3,18000,54000
+ORD100312,2026-03-05,South,South Bay,Grocery,Coffee Pack,4,350,1400
+ORD100313,2026-03-06,North,North Mall,Electronics,Smartphone,4,18000,72000
+ORD100314,2026-03-07,South,South Bay,Apparel,T-Shirt,2,700,1400
+ORD100315,2026-03-07,West,West End,Electronics,Headphones,8,2500,20000
+ORD100316,2026-03-08,West,West Junction,Apparel,Jacket,4,3200,12800
+ORD100317,2026-03-08,South,South Bay,Electronics,Smartwatch,3,6000,18000
+ORD100318,2026-03-09,West,West End,Sports,Running Shoes,1,3600,3600
+ORD100319,2026-03-10,North,North Central,Sports,Cricket Bat,3,2800,8400
+ORD100320,2026-03-10,North,North Central,Home & Kitchen,Cookware Set,4,4200,16800
+ORD100321,2026-03-10,East,East Point,Apparel,T-Shirt,8,700,5600
+ORD100322,2026-03-11,West,West Junction,Electronics,Headphones,1,2500,2500
+ORD100323,2026-03-11,South,South Bay,Home & Kitchen,Cookware Set,3,4200,12600
+ORD100324,2026-03-12,West,West Park,Sports,Running Shoes,5,3600,18000
+ORD100325,2026-03-12,East,East Gate,Electronics,Smartphone,5,18000,90000
+ORD100326,2026-03-13,South,South Market,Electronics,Headphones,8,2500,20000
+ORD100327,2026-03-13,North,North Central,Home & Kitchen,Table Lamp,7,1200,8400
+ORD100328,2026-03-14,South,South Bay,Apparel,Jeans,6,1800,10800
+ORD100329,2026-03-14,South,South Square,Home & Kitchen,Cookware Set,3,4200,12600
+ORD100330,2026-03-17,West,West End,Apparel,T-Shirt,8,700,5600
+ORD100331,2026-03-17,North,North Central,Home & Kitchen,Table Lamp,7,1200,8400
+ORD100332,2026-03-18,West,West Park,Home & Kitchen,Table Lamp,1,1200,1200
+ORD100333,2026-03-19,East,East Gate,Sports,Yoga Mat,7,900,6300
+ORD100334,2026-03-19,North,North Central,Home & Kitchen,Mixer Grinder,3,3500,10500
+ORD100335,2026-03-20,East,East Harbor,Electronics,Smartphone,6,18000,108000
+ORD100336,2026-03-20,West,West Park,Home & Kitchen,Cookware Set,7,4200,29400
+ORD100337,2026-03-20,South,South Bay,Sports,Yoga Mat,2,900,1800
+ORD100338,2026-03-22,East,East Point,Apparel,Jacket,7,3200,22400
+ORD100339,2026-03-22,North,North Plaza,Grocery,Rice 5kg,8,450,3600
+ORD100340,2026-03-22,East,East Harbor,Grocery,Olive Oil 1L,5,900,4500
+ORD100341,2026-03-23,South,South Market,Apparel,Jacket,2,3200,6400
+ORD100342,2026-03-23,North,North Mall,Sports,Yoga Mat,4,900,3600
+ORD100343,2026-03-24,East,East Gate,Apparel,Jeans,2,1800,3600
+ORD100344,2026-03-24,South,South Market,Grocery,Coffee Pack,6,350,2100
+ORD100345,2026-03-25,South,South Square,Grocery,Coffee Pack,8,350,2800
+ORD100346,2026-03-25,North,North Central,Electronics,Smartwatch,8,6000,48000
+ORD100347,2026-03-25,West,West End,Sports,Cricket Bat,6,2800,16800
+ORD100348,2026-03-25,South,South Market,Apparel,T-Shirt,2,700,1400
+ORD100349,2026-03-26,South,South Market,Electronics,Headphones,2,2500,5000
+ORD100350,2026-03-26,South,South Square,Electronics,Smartwatch,6,6000,36000
+ORD100351,2026-03-26,North,North Plaza,Electronics,Headphones,7,2500,17500
+ORD100352,2026-03-27,West,West Junction,Grocery,Rice 5kg,6,450,2700
+ORD100353,2026-03-27,East,East Gate,Grocery,Rice 5kg,5,450,2250
+ORD100354,2026-03-27,West,West Junction,Grocery,Coffee Pack,8,350,2800
+ORD100355,2026-03-28,East,East Point,Sports,Yoga Mat,5,900,4500
+ORD100356,2026-03-28,West,West Park,Apparel,Jeans,5,1800,9000
+ORD100357,2026-03-29,South,South Square,Electronics,Smartwatch,1,6000,6000
+ORD100358,2026-03-29,East,East Gate,Apparel,Jacket,4,3200,12800
+ORD100359,2026-03-29,West,West Park,Apparel,Jacket,5,3200,16000
+ORD100360,2026-03-29,East,East Gate,Grocery,Coffee Pack,4,350,1400
+ORD100361,2026-03-30,South,South Bay,Sports,Cricket Bat,3,2800,8400
+ORD100362,2026-03-30,East,East Point,Home & Kitchen,Table Lamp,4,1200,4800
+ORD100363,2026-03-31,West,West Junction,Apparel,Jacket,3,3200,9600
+ORD100364,2026-04-02,West,West Junction,Home & Kitchen,Cookware Set,6,4200,25200
+ORD100365,2026-04-02,South,South Square,Apparel,T-Shirt,2,700,1400
+ORD100366,2026-04-02,South,South Square,Grocery,Rice 5kg,3,450,1350
+ORD100367,2026-04-04,East,East Gate,Home & Kitchen,Table Lamp,8,1200,9600
+ORD100368,2026-04-04,North,North Mall,Grocery,Coffee Pack,6,350,2100
+ORD100369,2026-04-04,South,South Bay,Apparel,Jacket,4,3200,12800
+ORD100370,2026-04-06,North,North Plaza,Grocery,Coffee Pack,1,350,350
+ORD100371,2026-04-07,East,East Gate,Home & Kitchen,Mixer Grinder,7,3500,24500
+ORD100372,2026-04-07,East,East Gate,Home & Kitchen,Mixer Grinder,3,3500,10500
+ORD100373,2026-04-08,East,East Point,Electronics,Smartwatch,3,6000,18000
+ORD100374,2026-04-08,East,East Point,Electronics,Smartwatch,4,6000,24000
+ORD100375,2026-04-09,North,North Mall,Sports,Yoga Mat,5,900,4500
+ORD100376,2026-04-09,South,South Square,Electronics,Smartwatch,6,6000,36000
+ORD100377,2026-04-09,East,East Harbor,Grocery,Olive Oil 1L,2,900,1800
+ORD100378,2026-04-09,South,South Bay,Home & Kitchen,Table Lamp,5,1200,6000
+ORD100379,2026-04-10,East,East Harbor,Electronics,Headphones,2,2500,5000
+ORD100380,2026-04-10,West,West Park,Sports,Yoga Mat,4,900,3600
+ORD100381,2026-04-13,West,West Junction,Home & Kitchen,Mixer Grinder,1,3500,3500
+ORD100382,2026-04-14,East,East Point,Sports,Running Shoes,7,3600,25200
+ORD100383,2026-04-14,West,West End,Grocery,Rice 5kg,3,450,1350
+ORD100384,2026-04-14,North,North Plaza,Apparel,Jacket,8,3200,25600
+ORD100385,2026-04-15,South,South Square,Electronics,Smartwatch,6,6000,36000
+ORD100386,2026-04-15,South,South Square,Sports,Running Shoes,3,3600,10800
+ORD100387,2026-04-15,South,South Bay,Electronics,Smartwatch,7,6000,42000
+ORD100388,2026-04-16,West,West Park,Apparel,Jacket,3,3200,9600
+ORD100389,2026-04-16,East,East Gate,Home & Kitchen,Table Lamp,8,1200,9600
+ORD100390,2026-04-16,North,North Central,Home & Kitchen,Table Lamp,2,1200,2400
+ORD100391,2026-04-16,South,South Market,Electronics,Smartwatch,7,6000,42000
+ORD100392,2026-04-16,West,West Junction,Home & Kitchen,Table Lamp,5,1200,6000
+ORD100393,2026-04-16,North,North Plaza,Apparel,Jacket,6,3200,19200
+ORD100394,2026-04-17,West,West Park,Sports,Cricket Bat,3,2800,8400
+ORD100395,2026-04-17,West,West Junction,Home & Kitchen,Table Lamp,4,1200,4800
+ORD100396,2026-04-17,East,East Gate,Electronics,Headphones,4,2500,10000
+ORD100397,2026-04-17,North,North Mall,Sports,Yoga Mat,3,900,2700
+ORD100398,2026-04-17,South,South Market,Apparel,Jeans,2,1800,3600
+ORD100399,2026-04-17,North,North Mall,Sports,Yoga Mat,6,900,5400
+ORD100400,2026-04-18,North,North Mall,Home & Kitchen,Cookware Set,1,4200,4200
+ORD100401,2026-04-18,East,East Harbor,Home & Kitchen,Table Lamp,3,1200,3600
+ORD100402,2026-04-18,East,East Point,Grocery,Olive Oil 1L,8,900,7200
+ORD100403,2026-04-19,East,East Harbor,Electronics,Smartphone,8,18000,144000
+ORD100404,2026-04-20,East,East Point,Home & Kitchen,Cookware Set,4,4200,16800
+ORD100405,2026-04-20,East,East Harbor,Grocery,Coffee Pack,8,350,2800
+ORD100406,2026-04-21,North,North Mall,Sports,Yoga Mat,8,900,7200
+ORD100407,2026-04-21,South,South Square,Grocery,Olive Oil 1L,6,900,5400
+ORD100408,2026-04-22,South,South Square,Grocery,Olive Oil 1L,7,900,6300
+ORD100409,2026-04-22,West,West Junction,Home & Kitchen,Cookware Set,2,4200,8400
+ORD100410,2026-04-22,West,West Park,Grocery,Rice 5kg,7,450,3150
+ORD100411,2026-04-22,West,West End,Grocery,Rice 5kg,1,450,450
+ORD100412,2026-04-23,South,South Market,Sports,Running Shoes,2,3600,7200
+ORD100413,2026-04-23,East,East Point,Electronics,Headphones,6,2500,15000
+ORD100414,2026-04-23,West,West Junction,Electronics,Headphones,7,2500,17500
+ORD100415,2026-04-24,North,North Central,Apparel,Jeans,6,1800,10800
+ORD100416,2026-04-24,East,East Gate,Apparel,T-Shirt,6,700,4200
+ORD100417,2026-04-25,South,South Bay,Home & Kitchen,Cookware Set,8,4200,33600
+ORD100418,2026-04-25,East,East Gate,Home & Kitchen,Mixer Grinder,4,3500,14000
+ORD100419,2026-04-25,North,North Mall,Sports,Cricket Bat,7,2800,19600
+ORD100420,2026-04-26,North,North Plaza,Grocery,Rice 5kg,7,450,3150
+ORD100421,2026-04-26,North,North Plaza,Apparel,T-Shirt,8,700,5600
+ORD100422,2026-04-27,West,West Junction,Apparel,T-Shirt,8,700,5600
+ORD100423,2026-04-28,South,South Market,Home & Kitchen,Mixer Grinder,8,3500,28000
+ORD100424,2026-04-28,West,West Park,Home & Kitchen,Cookware Set,3,4200,12600
+ORD100425,2026-04-28,South,South Bay,Home & Kitchen,Cookware Set,7,4200,29400
+ORD100426,2026-04-28,West,West End,Grocery,Rice 5kg,5,450,2250
+ORD100427,2026-04-28,East,East Harbor,Sports,Yoga Mat,6,900,5400
+ORD100428,2026-04-28,East,East Harbor,Grocery,Olive Oil 1L,4,900,3600
+ORD100429,2026-04-29,West,West Park,Home & Kitchen,Table Lamp,1,1200,1200
+ORD100430,2026-04-29,South,South Market,Apparel,T-Shirt,2,700,1400
+ORD100431,2026-04-30,South,South Market,Sports,Running Shoes,8,3600,28800
+ORD100432,2026-04-30,East,East Harbor,Home & Kitchen,Mixer Grinder,3,3500,10500
+ORD100433,2026-05-01,North,North Plaza,Sports,Cricket Bat,5,2800,14000
+ORD100434,2026-05-01,North,North Plaza,Sports,Cricket Bat,4,2800,11200
+ORD100435,2026-05-01,East,East Gate,Sports,Yoga Mat,6,900,5400
+ORD100436,2026-05-01,West,West Junction,Apparel,Jacket,2,3200,6400
+ORD100437,2026-05-01,West,West Park,Apparel,Jeans,3,1800,5400
+ORD100438,2026-05-02,North,North Central,Home & Kitchen,Mixer Grinder,7,3500,24500
+ORD100439,2026-05-05,South,South Market,Sports,Running Shoes,3,3600,10800
+ORD100440,2026-05-06,North,North Mall,Apparel,Jeans,1,1800,1800
+ORD100441,2026-05-06,North,North Mall,Apparel,T-Shirt,3,700,2100
+ORD100442,2026-05-08,South,South Square,Apparel,T-Shirt,5,700,3500
+ORD100443,2026-05-08,North,North Mall,Grocery,Rice 5kg,3,450,1350
+ORD100444,2026-05-09,West,West End,Home & Kitchen,Cookware Set,8,4200,33600
+ORD100445,2026-05-09,South,South Bay,Grocery,Olive Oil 1L,1,900,900
+ORD100446,2026-05-09,North,North Plaza,Sports,Cricket Bat,5,2800,14000
+ORD100447,2026-05-10,South,South Square,Sports,Running Shoes,7,3600,25200
+ORD100448,2026-05-10,South,South Market,Grocery,Coffee Pack,7,350,2450
+ORD100449,2026-05-11,South,South Bay,Grocery,Olive Oil 1L,6,900,5400
+ORD100450,2026-05-11,South,South Market,Home & Kitchen,Cookware Set,4,4200,16800
+ORD100451,2026-05-11,North,North Mall,Electronics,Headphones,3,2500,7500
+ORD100452,2026-05-12,West,West Junction,Electronics,Headphones,5,2500,12500
+ORD100453,2026-05-12,North,North Central,Home & Kitchen,Cookware Set,1,4200,4200
+ORD100454,2026-05-12,North,North Plaza,Electronics,Headphones,7,2500,17500
+ORD100455,2026-05-12,East,East Point,Apparel,Jacket,5,3200,16000
+ORD100456,2026-05-13,East,East Harbor,Electronics,Headphones,6,2500,15000
+ORD100457,2026-05-13,North,North Mall,Electronics,Headphones,6,2500,15000
+ORD100458,2026-05-13,West,West End,Apparel,Jacket,2,3200,6400
+ORD100459,2026-05-13,South,South Market,Grocery,Olive Oil 1L,7,900,6300
+ORD100460,2026-05-15,East,East Point,Sports,Yoga Mat,6,900,5400
+ORD100461,2026-05-15,West,West Junction,Home & Kitchen,Mixer Grinder,8,3500,28000
+ORD100462,2026-05-16,East,East Point,Electronics,Smartphone,2,18000,36000
+ORD100463,2026-05-17,North,North Central,Electronics,Headphones,8,2500,20000
+ORD100464,2026-05-17,East,East Point,Home & Kitchen,Table Lamp,3,1200,3600
+ORD100465,2026-05-18,East,East Gate,Apparel,T-Shirt,7,700,4900
+ORD100466,2026-05-18,South,South Square,Apparel,Jeans,8,1800,14400
+ORD100467,2026-05-18,West,West Park,Electronics,Smartwatch,3,6000,18000
+ORD100468,2026-05-18,West,West Junction,Home & Kitchen,Table Lamp,7,1200,8400
+ORD100469,2026-05-19,South,South Market,Sports,Cricket Bat,3,2800,8400
+ORD100470,2026-05-19,South,South Market,Sports,Running Shoes,7,3600,25200
+ORD100471,2026-05-19,East,East Point,Electronics,Headphones,2,2500,5000
+ORD100472,2026-05-19,East,East Gate,Grocery,Coffee Pack,8,350,2800
+ORD100473,2026-05-19,West,West End,Grocery,Coffee Pack,7,350,2450
+ORD100474,2026-05-19,East,East Gate,Sports,Running Shoes,4,3600,14400
+ORD100475,2026-05-20,South,South Square,Electronics,Smartwatch,5,6000,30000
+ORD100476,2026-05-21,North,North Plaza,Grocery,Olive Oil 1L,2,900,1800
+ORD100477,2026-05-21,East,East Point,Home & Kitchen,Cookware Set,7,4200,29400
+ORD100478,2026-05-21,North,North Mall,Grocery,Coffee Pack,3,350,1050
+ORD100479,2026-05-22,North,North Plaza,Apparel,Jeans,6,1800,10800
+ORD100480,2026-05-22,South,South Market,Sports,Running Shoes,6,3600,21600
+ORD100481,2026-05-22,North,North Mall,Home & Kitchen,Table Lamp,5,1200,6000
+ORD100482,2026-05-23,North,North Central,Home & Kitchen,Cookware Set,7,4200,29400
+ORD100483,2026-05-23,North,North Central,Grocery,Rice 5kg,7,450,3150
+ORD100484,2026-05-24,East,East Harbor,Grocery,Coffee Pack,5,350,1750
+ORD100485,2026-05-25,South,South Market,Apparel,Jacket,7,3200,22400
+ORD100486,2026-05-26,West,West Junction,Sports,Running Shoes,6,3600,21600
+ORD100487,2026-05-26,West,West Junction,Electronics,Smartwatch,1,6000,6000
+ORD100488,2026-05-27,East,East Point,Grocery,Rice 5kg,8,450,3600
+ORD100489,2026-05-27,East,East Gate,Home & Kitchen,Table Lamp,5,1200,6000
+ORD100490,2026-05-27,East,East Point,Apparel,T-Shirt,2,700,1400
+ORD100491,2026-05-27,East,East Point,Grocery,Olive Oil 1L,8,900,7200
+ORD100492,2026-05-27,North,North Mall,Home & Kitchen,Cookware Set,4,4200,16800
+ORD100493,2026-05-28,South,South Square,Electronics,Smartphone,5,18000,90000
+ORD100494,2026-05-28,South,South Square,Sports,Yoga Mat,7,900,6300
+ORD100495,2026-05-29,West,West Park,Grocery,Rice 5kg,1,450,450
+ORD100496,2026-05-29,North,North Mall,Sports,Running Shoes,2,3600,7200
+ORD100497,2026-05-30,North,North Central,Sports,Yoga Mat,1,900,900
+ORD100498,2026-05-30,North,North Mall,Sports,Cricket Bat,4,2800,11200
+ORD100499,2026-05-30,South,South Square,Electronics,Smartwatch,7,6000,42000
+ORD100500,2026-05-30,South,South Square,Home & Kitchen,Cookware Set,1,4200,4200
+ORD100501,2026-05-31,East,East Point,Sports,Cricket Bat,6,2800,16800
+ORD100502,2026-05-31,West,West Park,Apparel,Jeans,1,1800,1800
+ORD100503,2026-05-31,East,East Point,Apparel,Jeans,2,1800,3600
+ORD100504,2026-06-01,North,North Plaza,Home & Kitchen,Table Lamp,4,1200,4800
+ORD100505,2026-06-01,North,North Plaza,Home & Kitchen,Cookware Set,2,4200,8400
+ORD100506,2026-06-01,East,East Gate,Home & Kitchen,Table Lamp,1,1200,1200
+ORD100507,2026-06-03,South,South Bay,Home & Kitchen,Mixer Grinder,1,3500,3500
+ORD100508,2026-06-03,East,East Gate,Home & Kitchen,Cookware Set,5,4200,21000
+ORD100509,2026-06-05,North,North Central,Home & Kitchen,Table Lamp,6,1200,7200
+ORD100510,2026-06-06,South,South Bay,Apparel,Jacket,2,3200,6400
+ORD100511,2026-06-06,East,East Gate,Sports,Yoga Mat,2,900,1800
+ORD100512,2026-06-06,South,South Bay,Home & Kitchen,Table Lamp,8,1200,9600
+ORD100513,2026-06-07,South,South Market,Home & Kitchen,Cookware Set,1,4200,4200
+ORD100514,2026-06-09,North,North Central,Electronics,Smartphone,4,18000,72000
+ORD100515,2026-06-10,West,West Park,Sports,Cricket Bat,2,2800,5600
+ORD100516,2026-06-10,North,North Plaza,Sports,Running Shoes,6,3600,21600
+ORD100517,2026-06-11,South,South Bay,Home & Kitchen,Cookware Set,4,4200,16800
+ORD100518,2026-06-12,East,East Harbor,Grocery,Olive Oil 1L,4,900,3600
+ORD100519,2026-06-14,East,East Gate,Home & Kitchen,Table Lamp,1,1200,1200
+ORD100520,2026-06-15,South,South Bay,Home & Kitchen,Mixer Grinder,3,3500,10500
+ORD100521,2026-06-16,South,South Bay,Apparel,T-Shirt,8,700,5600
+ORD100522,2026-06-16,South,South Square,Home & Kitchen,Mixer Grinder,1,3500,3500
+ORD100523,2026-06-17,North,North Plaza,Home & Kitchen,Cookware Set,1,4200,4200
+ORD100524,2026-06-17,North,North Mall,Grocery,Coffee Pack,4,350,1400
+ORD100525,2026-06-17,East,East Harbor,Home & Kitchen,Cookware Set,7,4200,29400
+ORD100526,2026-06-19,West,West Park,Sports,Yoga Mat,7,900,6300
+ORD100527,2026-06-19,West,West Junction,Apparel,T-Shirt,2,700,1400
+ORD100528,2026-06-20,North,North Mall,Electronics,Headphones,3,2500,7500
+ORD100529,2026-06-21,West,West Junction,Home & Kitchen,Cookware Set,1,4200,4200
+ORD100530,2026-06-21,North,North Central,Home & Kitchen,Mixer Grinder,5,3500,17500
+ORD100531,2026-06-22,South,South Square,Apparel,Jeans,7,1800,12600
+ORD100532,2026-06-23,West,West Park,Apparel,T-Shirt,7,700,4900
+ORD100533,2026-06-23,West,West End,Electronics,Smartwatch,6,6000,36000
+ORD100534,2026-06-25,East,East Harbor,Sports,Cricket Bat,8,2800,22400
+ORD100535,2026-06-25,West,West Park,Home & Kitchen,Cookware Set,7,4200,29400
+ORD100536,2026-06-27,West,West Junction,Grocery,Rice 5kg,2,450,900
+ORD100537,2026-06-28,South,South Square,Apparel,Jacket,1,3200,3200
+ORD100538,2026-06-28,North,North Plaza,Grocery,Rice 5kg,7,450,3150
+ORD100539,2026-06-29,South,South Market,Grocery,Coffee Pack,3,350,1050
+ORD100540,2026-06-29,South,South Market,Home & Kitchen,Mixer Grinder,3,3500,10500
+ORD100541,2026-06-29,East,East Point,Grocery,Coffee Pack,5,350,1750
+ORD100542,2026-06-29,West,West Junction,Apparel,Jacket,3,3200,9600
+ORD100543,2026-06-29,East,East Point,Electronics,Smartphone,3,18000,54000
+ORD100544,2026-06-30,West,West End,Electronics,Smartwatch,5,6000,30000
+ORD100545,2026-07-01,North,North Central,Home & Kitchen,Mixer Grinder,1,3500,3500
+ORD100546,2026-07-02,North,North Plaza,Grocery,Coffee Pack,5,350,1750
+ORD100547,2026-07-02,East,East Point,Grocery,Olive Oil 1L,8,900,7200
+ORD100548,2026-07-02,East,East Gate,Sports,Running Shoes,7,3600,25200
+ORD100549,2026-07-02,South,South Market,Grocery,Rice 5kg,8,450,3600
+ORD100550,2026-07-05,North,North Mall,Electronics,Smartphone,1,18000,18000
+ORD100551,2026-07-05,West,West Junction,Apparel,T-Shirt,1,700,700
+ORD100552,2026-07-05,West,West Park,Electronics,Smartphone,7,18000,126000
+ORD100553,2026-07-05,North,North Central,Home & Kitchen,Mixer Grinder,5,3500,17500
+ORD100554,2026-07-05,North,North Mall,Home & Kitchen,Table Lamp,4,1200,4800
+ORD100555,2026-07-06,North,North Plaza,Sports,Running Shoes,2,3600,7200
+ORD100556,2026-07-06,East,East Harbor,Sports,Yoga Mat,5,900,4500
+ORD100557,2026-07-06,North,North Central,Grocery,Rice 5kg,4,450,1800
+ORD100558,2026-07-08,North,North Plaza,Sports,Running Shoes,8,3600,28800
+ORD100559,2026-07-08,East,East Point,Apparel,Jacket,1,3200,3200
+ORD100560,2026-07-09,North,North Mall,Electronics,Headphones,6,2500,15000
+ORD100561,2026-07-09,East,East Harbor,Sports,Yoga Mat,3,900,2700
+ORD100562,2026-07-09,East,East Point,Apparel,T-Shirt,3,700,2100
+ORD100563,2026-07-10,East,East Point,Sports,Cricket Bat,1,2800,2800
+ORD100564,2026-07-10,West,West Park,Grocery,Rice 5kg,4,450,1800
+ORD100565,2026-07-10,West,West End,Apparel,Jacket,8,3200,25600
+ORD100566,2026-07-10,East,East Harbor,Sports,Cricket Bat,4,2800,11200
+ORD100567,2026-07-10,West,West Junction,Electronics,Smartphone,2,18000,36000
+ORD100568,2026-07-11,North,North Mall,Electronics,Smartwatch,5,6000,30000
+ORD100569,2026-07-11,South,South Market,Grocery,Coffee Pack,4,350,1400
+ORD100570,2026-07-11,South,South Square,Apparel,Jacket,6,3200,19200
+ORD100571,2026-07-12,South,South Market,Grocery,Rice 5kg,3,450,1350
+ORD100572,2026-07-12,North,North Mall,Apparel,Jacket,4,3200,12800
+ORD100573,2026-07-13,East,East Gate,Home & Kitchen,Mixer Grinder,5,3500,17500
+ORD100574,2026-07-15,North,North Plaza,Grocery,Coffee Pack,8,350,2800
+ORD100575,2026-07-15,West,West Park,Sports,Running Shoes,3,3600,10800
+ORD100576,2026-07-15,South,South Square,Sports,Cricket Bat,4,2800,11200
+ORD100577,2026-07-15,East,East Point,Electronics,Headphones,2,2500,5000
+ORD100578,2026-07-16,South,South Market,Sports,Cricket Bat,3,2800,8400
+ORD100579,2026-07-16,North,North Central,Electronics,Smartphone,5,18000,90000
+ORD100580,2026-07-16,West,West Park,Home & Kitchen,Mixer Grinder,1,3500,3500
+ORD100581,2026-07-17,North,North Mall,Electronics,Smartphone,4,18000,72000
+ORD100582,2026-07-18,North,North Central,Sports,Cricket Bat,4,2800,11200
+ORD100583,2026-07-18,North,North Central,Sports,Yoga Mat,5,900,4500
+ORD100584,2026-07-18,North,North Mall,Apparel,T-Shirt,8,700,5600
+ORD100585,2026-07-19,West,West Park,Sports,Running Shoes,3,3600,10800
+ORD100586,2026-07-19,West,West End,Sports,Cricket Bat,6,2800,16800
+ORD100587,2026-07-19,South,South Market,Sports,Running Shoes,6,3600,21600
+ORD100588,2026-07-20,West,West End,Home & Kitchen,Mixer Grinder,6,3500,21000
+ORD100589,2026-07-20,West,West End,Apparel,Jeans,7,1800,12600
+ORD100590,2026-07-21,West,West Junction,Home & Kitchen,Cookware Set,2,4200,8400
+ORD100591,2026-07-21,West,West Junction,Home & Kitchen,Cookware Set,1,4200,4200
+ORD100592,2026-07-22,West,West Park,Apparel,Jacket,4,3200,12800
+ORD100593,2026-07-22,East,East Harbor,Grocery,Rice 5kg,7,450,3150
+ORD100594,2026-07-23,East,East Harbor,Home & Kitchen,Cookware Set,8,4200,33600
+ORD100595,2026-07-23,South,South Bay,Home & Kitchen,Mixer Grinder,2,3500,7000
+ORD100596,2026-07-24,North,North Central,Home & Kitchen,Cookware Set,2,4200,8400
+ORD100597,2026-07-24,North,North Mall,Electronics,Headphones,6,2500,15000
+ORD100598,2026-07-24,East,East Point,Home & Kitchen,Cookware Set,4,4200,16800
+ORD100599,2026-07-27,West,West Junction,Home & Kitchen,Cookware Set,4,4200,16800
+ORD100600,2026-07-27,West,West Junction,Grocery,Rice 5kg,4,450,1800
+ORD100601,2026-07-27,South,South Bay,Electronics,Smartphone,4,18000,72000
+ORD100602,2026-07-28,South,South Square,Home & Kitchen,Mixer Grinder,5,3500,17500
+ORD100603,2026-07-30,North,North Mall,Grocery,Coffee Pack,3,350,1050
+ORD100604,2026-07-31,South,South Bay,Sports,Running Shoes,6,3600,21600
+ORD100605,2026-07-31,West,West Park,Electronics,Smartwatch,4,6000,24000
+ORD100606,2026-07-31,North,North Central,Home & Kitchen,Mixer Grinder,8,3500,28000
+ORD100607,2026-07-31,South,South Square,Sports,Yoga Mat,8,900,7200
+ORD100608,2026-08-01,North,North Mall,Electronics,Smartwatch,1,6000,6000
+ORD100609,2026-08-01,East,East Point,Electronics,Headphones,5,2500,12500
+ORD100610,2026-08-02,South,South Market,Grocery,Olive Oil 1L,5,900,4500
+ORD100611,2026-08-02,West,West Park,Sports,Running Shoes,4,3600,14400
+ORD100612,2026-08-02,West,West Junction,Home & Kitchen,Table Lamp,2,1200,2400
+ORD100613,2026-08-02,East,East Point,Electronics,Headphones,7,2500,17500
+ORD100614,2026-08-03,East,East Point,Electronics,Smartphone,6,18000,108000
+ORD100615,2026-08-05,South,South Square,Electronics,Smartphone,8,18000,144000
+ORD100616,2026-08-05,West,West End,Home & Kitchen,Cookware Set,8,4200,33600
+ORD100617,2026-08-05,South,South Square,Grocery,Olive Oil 1L,2,900,1800
+ORD100618,2026-08-06,West,West Park,Electronics,Smartwatch,5,6000,30000
+ORD100619,2026-08-06,East,East Gate,Electronics,Smartphone,1,18000,18000
+ORD100620,2026-08-08,East,East Harbor,Grocery,Olive Oil 1L,7,900,6300
+ORD100621,2026-08-09,West,West End,Sports,Yoga Mat,4,900,3600
+ORD100622,2026-08-09,West,West End,Apparel,Jeans,5,1800,9000
+ORD100623,2026-08-10,North,North Mall,Apparel,Jeans,8,1800,14400
+ORD100624,2026-08-11,West,West Park,Sports,Running Shoes,1,3600,3600
+ORD100625,2026-08-11,North,North Mall,Apparel,Jeans,2,1800,3600
+ORD100626,2026-08-12,West,West End,Apparel,Jeans,6,1800,10800
+ORD100627,2026-08-13,North,North Central,Grocery,Rice 5kg,2,450,900
+ORD100628,2026-08-13,West,West Junction,Home & Kitchen,Mixer Grinder,1,3500,3500
+ORD100629,2026-08-14,East,East Harbor,Apparel,T-Shirt,2,700,1400
+ORD100630,2026-08-15,South,South Market,Electronics,Smartwatch,2,6000,12000
+ORD100631,2026-08-15,South,South Market,Grocery,Coffee Pack,8,350,2800
+ORD100632,2026-08-16,East,East Harbor,Electronics,Smartwatch,5,6000,30000
+ORD100633,2026-08-17,West,West Junction,Home & Kitchen,Mixer Grinder,6,3500,21000
+ORD100634,2026-08-17,South,South Bay,Grocery,Olive Oil 1L,3,900,2700
+ORD100635,2026-08-17,West,West End,Apparel,Jeans,3,1800,5400
+ORD100636,2026-08-17,South,South Market,Home & Kitchen,Mixer Grinder,5,3500,17500
+ORD100637,2026-08-18,South,South Square,Home & Kitchen,Table Lamp,2,1200,2400
+ORD100638,2026-08-18,East,East Gate,Home & Kitchen,Mixer Grinder,8,3500,28000
+ORD100639,2026-08-18,West,West Park,Home & Kitchen,Mixer Grinder,3,3500,10500
+ORD100640,2026-08-18,North,North Plaza,Home & Kitchen,Mixer Grinder,6,3500,21000
+ORD100641,2026-08-19,South,South Square,Apparel,Jeans,1,1800,1800
+ORD100642,2026-08-21,West,West Park,Home & Kitchen,Cookware Set,7,4200,29400
+ORD100643,2026-08-22,West,West Junction,Apparel,Jeans,3,1800,5400
+ORD100644,2026-08-22,West,West End,Home & Kitchen,Cookware Set,7,4200,29400
+ORD100645,2026-08-23,West,West End,Electronics,Smartwatch,5,6000,30000
+ORD100646,2026-08-24,North,North Central,Grocery,Rice 5kg,4,450,1800
+ORD100647,2026-08-24,West,West Junction,Grocery,Rice 5kg,6,450,2700
+ORD100648,2026-08-24,North,North Plaza,Apparel,Jeans,2,1800,3600
+ORD100649,2026-08-25,East,East Gate,Grocery,Olive Oil 1L,3,900,2700
+ORD100650,2026-08-25,West,West Junction,Sports,Cricket Bat,1,2800,2800
+ORD100651,2026-08-26,West,West Junction,Grocery,Coffee Pack,7,350,2450
+ORD100652,2026-08-27,West,West Park,Electronics,Smartphone,5,18000,90000
+ORD100653,2026-08-27,North,North Central,Sports,Running Shoes,5,3600,18000
+ORD100654,2026-08-28,East,East Point,Home & Kitchen,Table Lamp,8,1200,9600
+ORD100655,2026-08-28,North,North Mall,Home & Kitchen,Table Lamp,5,1200,6000
+ORD100656,2026-08-28,South,South Square,Electronics,Smartphone,5,18000,90000
+ORD100657,2026-08-28,South,South Market,Grocery,Rice 5kg,6,450,2700
+ORD100658,2026-08-28,North,North Mall,Apparel,T-Shirt,4,700,2800
+ORD100659,2026-08-29,West,West End,Apparel,Jacket,1,3200,3200
+ORD100660,2026-08-30,South,South Square,Home & Kitchen,Table Lamp,1,1200,1200
+ORD100661,2026-08-30,South,South Market,Grocery,Coffee Pack,4,350,1400
+ORD100662,2026-08-31,East,East Gate,Apparel,T-Shirt,7,700,4900
+ORD100663,2026-09-01,East,East Gate,Sports,Running Shoes,4,3600,14400
+ORD100664,2026-09-01,South,South Square,Apparel,Jacket,3,3200,9600
+ORD100665,2026-09-01,North,North Central,Home & Kitchen,Mixer Grinder,3,3500,10500
+ORD100666,2026-09-01,East,East Gate,Apparel,T-Shirt,4,700,2800
+ORD100667,2026-09-02,West,West Junction,Grocery,Rice 5kg,4,450,1800
+ORD100668,2026-09-03,West,West Junction,Apparel,Jeans,7,1800,12600
+ORD100669,2026-09-03,West,West Park,Home & Kitchen,Cookware Set,8,4200,33600
+ORD100670,2026-09-03,South,South Square,Home & Kitchen,Cookware Set,2,4200,8400
+ORD100671,2026-09-04,East,East Harbor,Apparel,T-Shirt,7,700,4900
+ORD100672,2026-09-05,North,North Central,Grocery,Rice 5kg,2,450,900
+ORD100673,2026-09-05,West,West Junction,Home & Kitchen,Cookware Set,3,4200,12600
+ORD100674,2026-09-06,West,West Junction,Apparel,T-Shirt,5,700,3500
+ORD100675,2026-09-07,North,North Plaza,Grocery,Coffee Pack,3,350,1050
+ORD100676,2026-09-08,West,West End,Sports,Yoga Mat,8,900,7200
+ORD100677,2026-09-08,East,East Harbor,Sports,Running Shoes,2,3600,7200
+ORD100678,2026-09-09,North,North Plaza,Grocery,Coffee Pack,7,350,2450
+ORD100679,2026-09-10,North,North Plaza,Sports,Cricket Bat,1,2800,2800
+ORD100680,2026-09-10,East,East Harbor,Electronics,Smartphone,8,18000,144000
+ORD100681,2026-09-11,South,South Market,Electronics,Smartwatch,4,6000,24000
+ORD100682,2026-09-12,West,West Junction,Electronics,Smartphone,6,18000,108000
+ORD100683,2026-09-12,East,East Point,Electronics,Smartphone,1,18000,18000
+ORD100684,2026-09-14,East,East Gate,Sports,Running Shoes,3,3600,10800
+ORD100685,2026-09-15,West,West End,Apparel,T-Shirt,5,700,3500
+ORD100686,2026-09-16,West,West Park,Home & Kitchen,Mixer Grinder,1,3500,3500
+ORD100687,2026-09-16,West,West Junction,Home & Kitchen,Table Lamp,3,1200,3600
+ORD100688,2026-09-16,West,West End,Apparel,Jeans,5,1800,9000
+ORD100689,2026-09-16,East,East Gate,Apparel,Jacket,6,3200,19200
+ORD100690,2026-09-17,North,North Plaza,Home & Kitchen,Mixer Grinder,2,3500,7000
+ORD100691,2026-09-17,North,North Mall,Sports,Cricket Bat,2,2800,5600
+ORD100692,2026-09-19,North,North Mall,Grocery,Olive Oil 1L,4,900,3600
+ORD100693,2026-09-19,East,East Gate,Home & Kitchen,Mixer Grinder,4,3500,14000
+ORD100694,2026-09-19,North,North Mall,Grocery,Rice 5kg,4,450,1800
+ORD100695,2026-09-19,East,East Point,Grocery,Rice 5kg,7,450,3150
+ORD100696,2026-09-19,South,South Square,Electronics,Headphones,3,2500,7500
+ORD100697,2026-09-20,West,West Park,Electronics,Smartphone,5,18000,90000
+ORD100698,2026-09-21,West,West Junction,Apparel,Jeans,7,1800,12600
+ORD100699,2026-09-21,East,East Gate,Electronics,Headphones,1,2500,2500
+ORD100700,2026-09-21,East,East Point,Home & Kitchen,Cookware Set,1,4200,4200
+ORD100701,2026-09-22,North,North Central,Electronics,Headphones,8,2500,20000
+ORD100702,2026-09-22,East,East Harbor,Apparel,Jacket,7,3200,22400
+ORD100703,2026-09-22,West,West Park,Home & Kitchen,Mixer Grinder,3,3500,10500
+ORD100704,2026-09-22,West,West End,Sports,Yoga Mat,2,900,1800
+ORD100705,2026-09-24,South,South Market,Electronics,Smartwatch,2,6000,12000
+ORD100706,2026-09-24,West,West Park,Sports,Running Shoes,8,3600,28800
+ORD100707,2026-09-24,West,West End,Home & Kitchen,Mixer Grinder,3,3500,10500
+ORD100708,2026-09-24,East,East Point,Electronics,Smartwatch,2,6000,12000
+ORD100709,2026-09-25,South,South Bay,Home & Kitchen,Cookware Set,6,4200,25200
+ORD100710,2026-09-25,West,West End,Apparel,Jeans,4,1800,7200
+ORD100711,2026-09-25,North,North Mall,Apparel,T-Shirt,4,700,2800
+ORD100712,2026-09-25,West,West Park,Grocery,Olive Oil 1L,4,900,3600
+ORD100713,2026-09-25,North,North Central,Home & Kitchen,Cookware Set,5,4200,21000
+ORD100714,2026-09-26,North,North Plaza,Apparel,T-Shirt,7,700,4900
+ORD100715,2026-09-26,North,North Central,Grocery,Rice 5kg,2,450,900
+ORD100716,2026-09-26,North,North Central,Apparel,Jeans,2,1800,3600
+ORD100717,2026-09-27,South,South Bay,Home & Kitchen,Cookware Set,6,4200,25200
+ORD100718,2026-09-28,East,East Point,Electronics,Headphones,6,2500,15000
+ORD100719,2026-09-28,East,East Point,Electronics,Headphones,4,2500,10000
+ORD100720,2026-09-28,South,South Market,Grocery,Coffee Pack,2,350,700
